@@ -617,4 +617,4 @@ The project demonstrates the practical use of **AI agents, workflow automation, 
 ![IntelliPay-AP-Human-Email.jpeg](IntelliPay-AP-Human-Email.jpeg)
 
 ## Huaman Approval Form
-![IntelliPay-AP-Human-Email(2).jpeg](IntelliPay-AP-Human-Email(2).jpeg)
+![IntelliPay-AP-Human-Email (2).jpeg](IntelliPay-AP-Human-Email (2).jpeg)
