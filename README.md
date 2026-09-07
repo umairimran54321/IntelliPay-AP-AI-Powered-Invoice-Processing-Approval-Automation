@@ -599,7 +599,7 @@ The project demonstrates the practical use of **AI agents, workflow automation, 
 ![IntelliPay-AP-Reject.jpeg](IntelliPay-AP-Reject.jpeg)
 
 ## Human Approve
-![IntelliPay-AP-Human-Approve.jpeg](IntelliPay-AP-Human-Approve.jpeg)
+![IntelliPay-AP-Human-Appprove.jpeg](IntelliPay-AP-Human-Appprove.jpeg)
 
 ## Error
 ![IntelliPay-AP-Error.jpeg](IntelliPay-AP-Error.jpeg)
