@@ -591,5 +591,30 @@ IntelliPay AP transforms invoice processing from a manual verification task into
 
 The project demonstrates the practical use of **AI agents, workflow automation, structured data processing, and deterministic financial validation** to solve a real-world business problem.
 ## Workflow Screenshots
+## Approve
 
-![
+![IntelliPay-AP-Approve.jpeg]{IntelliPay-AP-Approve.jpeg}
+
+## Reject
+![IntelliPay-AP-Reject.jpeg]{IntelliPay-AP-Reject.jpeg}
+
+## Human Approve
+![IntelliPay-AP-Human-Approve.jpeg]{IntelliPay-AP-Human-Approve.jpeg}
+
+## Error
+![IntelliPay-AP-Error.jpeg]{IntelliPay-AP-Error.jpeg}
+
+## Duplicate
+![IntelliPay-AP-Duplicate.jpeg]{IntelliPay-AP-Duplicate.jpeg}
+
+## AI Email Approve 
+![IntelliPay-AP-AI-Email-Approve.jpeg]{IntelliPay-AP-AI-Email-Approve.jpeg}
+
+## AI Email Reject
+![IntelliPay-AP-AI-Email-Reject.jpeg]{IntelliPay-AP-AI-Email-Reject.jpeg}
+
+## Human Approval Email
+![IntelliPay-AP-Human-Email.jpeg]{IntelliPay-AP-Human-Email.jpeg}
+
+## Huaman Approval Form
+![IntelliPay-AP-Human-Email(2).jpeg]{IntelliPay-AP-Human-Email(2).jpeg}
